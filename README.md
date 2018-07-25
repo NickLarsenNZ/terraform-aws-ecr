@@ -1,4 +1,4 @@
 # Example ECR Resource
 
 ## Permissions
-- `AmazonEC2ContainerRegistryPowerUser`
+- `AmazonEC2ContainerRegistryFullAccess`
